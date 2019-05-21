@@ -1,0 +1,24 @@
+{
+  "name": "simple-parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple Parcel boilerplate",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iainfreestone/simple-parcel-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iainfreestone/simple-parcel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/iainfreestone/simple-parcel-boilerplate#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
